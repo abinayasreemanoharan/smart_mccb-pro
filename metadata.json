@@ -1,0 +1,6 @@
+{
+  "name": "BreakerPulse - MCCB Prediction Software",
+  "description": "Industrial molded case circuit breaker (MCCB) predictive engineering platform for trip curve simulation, contact wear & RUL prediction, thermal-harmonic derating, and IEC 60947-2 coordination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
